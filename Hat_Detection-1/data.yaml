@@ -1,8 +1,8 @@
-path: ../datasets/roboflow
+path: /mnt/c/Project/Hat Detection/
 
-train: train/images
-val: valid/images
-test: test/images
+train: Hat_Detection-1/train/images
+val: Hat_Detection-1/valid/images
+test: Hat_Detection-1/test/images
 
 names: 
   0: hat
